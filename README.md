@@ -1,8 +1,4 @@
-# React + Vite
+# World Wise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+یکی دیگه از پروژه هایی هست که در طول یادگیری ری اکت توی کورس بود نوشتم و وبسایتی هست که با کمک کتابخانه leaflet نوشته شده و یه مختصات از نقشه رو میگیره و یکسری اطلاعات راجب اون رو ذخیره میکنه.
+بجز leaflet از third-party library دیگه ای استفاده نشده.
