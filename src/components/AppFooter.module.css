@@ -1,0 +1,12 @@
+.footer {
+    margin-top: auto;
+    /* position: relative; */
+}
+
+.copyright {
+    font-size: 1.2rem;
+    color: var(--color-light--1);
+    /* position: absolute; */
+    /* bottom: 0; */
+    /* color: red; */
+}

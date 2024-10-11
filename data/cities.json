@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "ee01",
+      "cityName": "Shiraz",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-08-20T16:57:12.675Z",
+      "notes": "",
+      "position": {
+        "lat": "29.604597784712762",
+        "lng": "52.51190185546876"
+      }
+    },
+    {
+      "id": "0212",
+      "cityName": "Gibson Desert North",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-08-20T16:57:21.146Z",
+      "notes": "",
+      "position": {
+        "lat": "-21.2613300242503",
+        "lng": "127.96875000000001"
+      }
+    },
+    {
+      "id": "b952",
+      "cityName": "Gibson Desert North",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-08-20T16:57:25.378Z",
+      "notes": "",
+      "position": {
+        "lat": "-21.820025449264367",
+        "lng": "127.88635253906251"
+      }
+    }
+  ]
+}
